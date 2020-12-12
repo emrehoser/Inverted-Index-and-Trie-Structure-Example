@@ -8,4 +8,4 @@ It works with two different command:
 
 then
 
-**python query.py "<query-string>"**
+**python query.py "query-string"**
